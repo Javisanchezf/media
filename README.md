@@ -8,4 +8,5 @@
 
 <h2>References and thanks</h2>
 
-* https://giphy.com/iykra/
+* [Wikipedia](https://www.wikipedia.org/)
+* [Iykra from giphy](https://giphy.com/iykra/)
